@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: register-apps
-          image: image: ganavi23/register-apps-pipeline:1.0.0-34
+          image: image: ganavi23/register-apps-pipeline:1.0.0-35
           resources:
             limits:
               memory: "256Mi"
